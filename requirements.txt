@@ -1,5 +1,3 @@
-streamlit
-pandas
-psycopg2
-sqlalchemy
-plotly
+streamlit==1.25.0
+pg8000==1.16.6
+pandas==1.5.3
