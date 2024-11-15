@@ -1,3 +1,7 @@
 streamlit==1.25.0
-pg8000==1.16.6
+pg8000==1.29.0  # or latest version available
 pandas==1.5.3
+plotly
+seaborn
+numpy
+pillow
